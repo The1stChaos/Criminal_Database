@@ -18,10 +18,10 @@ Instructions on how to download and open the database.
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/repositoryname.git
+git clone https://github.com/The1stChaos/Criminal_Database.git
 
 # Navigate to the project directory
-cd repositoryname
+cd Criminal_Database
 
 # Open the Access database
 # Double-click on the .accdb file or open it in Microsoft Access
