@@ -8,7 +8,8 @@ This criminal database stores the information of both criminals and offenders of
 - Intersection tables
 - Foreign Key constraints
 - Relationships between tables established through queries
-- Insert statements for every value. 
+- Insert statements for every value
+- Entire database created through queries
 
 ## Technologies Used
 - Microsoft Access
